@@ -6,7 +6,7 @@ y = int(input("enter a number "))
 
 sum = x+y
 
-print("sum is " + str(sum))
+print("sum is  " , sum)
 
 subraction = x-y
 
@@ -19,3 +19,7 @@ print("multiplication is " + str(multiplication))
 division = x/y
 
 print("division is " + str(division))
+
+a = 5
+b = 6
+print(a>=b)

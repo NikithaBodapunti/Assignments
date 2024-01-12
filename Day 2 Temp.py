@@ -1,5 +1,6 @@
 #Temperature Converter
 
+import Day 2
 c = float(input("enter temperature in celcius "))
 
 f = float((c*1.8)+32)
